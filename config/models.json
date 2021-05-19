@@ -1,0 +1,16 @@
+{
+  "project_name": "awesome-project",
+  "out_path": "./model",
+  "int_to_int64": true,
+  "xtime": {
+    "use": true,
+    "package": "/pkg/xtime"
+  },
+  "db": {
+    "address": "10.0.150.180:3306",
+    "name": "sensitive",
+    "user": "root",
+    "password": "123u123U!@#"
+  },
+  "tables": []
+}
